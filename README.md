@@ -18,3 +18,16 @@
   <br>
   Our code and data will come soon!
 </p>
+
+## Citation
+If you find our work helpful, please consider citing:
+```
+@misc{lascomp,
+      title={LaS-Comp: Zero-shot 3D Completion with Latent-Spatial Consistency}, 
+      author={Weilong Yan and Haipeng Li and Hao Xu and Nianjin Ye and Yihao Ai and Shuaicheng Liu and Jingyu Hu},
+      year={2026},
+      eprint={2602.18735},
+      archivePrefix={arXiv},
+      url={https://arxiv.org/abs/2602.18735}, 
+}
+```
