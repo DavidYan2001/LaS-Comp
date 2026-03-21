@@ -19,7 +19,7 @@
 
 ## 📢 News
 - **[2026-03]** 🎉 Our proposed benchmark **Omni-Comp3D** is now available at [Hugging Face](https://huggingface.co/datasets/DavidYan2001/Omni-Comp3D)!
-- **[2026-02]** 📄 Paper is available on [arXiv](https://arxiv.org/abs/2602.18735).
+- **[2026-02]** 📄 Our work is accepted by [CVPR 2026](https://cvpr.thecvf.com/Conferences/2026), and paper is available on [arXiv](https://arxiv.org/abs/2602.18735).
 
 ## 📅 TODO
 - [x] Release **Omni-Comp3D** dataset.
