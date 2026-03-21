@@ -1,6 +1,6 @@
 <div align="center">
 
-# LaS-Comp: Zero-shot 3D Completion with Latent–Spatial Consistency
+# [CVPR 2026] LaS-Comp: Zero-shot 3D Completion with Latent–Spatial Consistency
 
 [![arXiv](https://img.shields.io/badge/arXiv-2602.18735-b31b1b.svg)](https://arxiv.org/abs/2602.18735)
 [![Dataset](https://img.shields.io/badge/HuggingFace-Dataset-orange)](https://huggingface.co/datasets/DavidYan2001/Omni-Comp3D)
@@ -11,7 +11,7 @@
 
 **Official implementation of "LaS-Comp: Zero-shot 3D Completion with Latent–Spatial Consistency"**
 
-[Weilong Yan](https://github.com/DavidYan2001), [Haipeng Li](), [Hao Xu](), [Nianjin Ye](), [Yihao Ai](), [Shuaicheng Liu](), [Jingyu Hu]()
+[Weilong Yan](https://davidyan2001.github.io/), [Haipeng Li](https://lhaippp.github.io/), [Hao Xu](https://hxwork.github.io/), [Nianjin Ye](https://scholar.google.com/citations?user=AhwGG78AAAAJ&hl=zh-CN), [Yihao Ai](https://ayh015-dev.github.io/), [Shuaicheng Liu](http://www.liushuaicheng.org/), [Jingyu Hu](https://scholar.google.com/citations?user=Gn0lRNsAAAAJ&hl=en)
 
 </div>
 
@@ -28,7 +28,7 @@
 
 ## 📦 Dataset
 The **Omni-Comp3D** dataset used in our paper is hosted on Hugging Face. You can access it here:
-👉 [**DavidYan2001/Omni-Comp3D**](https://huggingface.co/datasets/DavidYan2001/Omni-Comp3D)
+👉 [**Omni-Comp3D**](https://huggingface.co/datasets/DavidYan2001/Omni-Comp3D)
 
 ## 📝 Citation
 If you find our work or dataset helpful for your research, please consider citing:
