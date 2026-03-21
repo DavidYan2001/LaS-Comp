@@ -27,7 +27,7 @@
 - [ ] Release code for **Direct3D-S2**.
 
 ## 📦 Dataset
-The **Omni-Comp3D** dataset used in our paper is hosted on Hugging Face. You can access it here:
+The **Omni-Comp3D** benchmark is hosted on Hugging Face. You can access it here:
 👉 [**Omni-Comp3D**](https://huggingface.co/datasets/DavidYan2001/Omni-Comp3D)
 
 ## 📝 Citation
