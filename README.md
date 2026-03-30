@@ -34,11 +34,9 @@ The **Omni-Comp3D** benchmark is hosted on Hugging Face. You can access it here:
 If you find our work or dataset helpful for your research, please consider citing:
 
 ```bibtex
-@misc{lascomp,
-      title={LaS-Comp: Zero-shot 3D Completion with Latent-Spatial Consistency}, 
-      author={Weilong Yan and Haipeng Li and Hao Xu and Nianjin Ye and Yihao Ai and Shuaicheng Liu and Jingyu Hu},
-      year={2026},
-      eprint={2602.18735},
-      archivePrefix={arXiv},
-      url={[https://arxiv.org/abs/2602.18735](https://arxiv.org/abs/2602.18735)}, 
+@article{lascomp,
+  title={La{S}-{C}omp: {Z}ero-shot 3{D} {C}ompletion with {L}atent-{S}patial {C}onsistency},
+  author={Weilong Yan and Haipeng Li and Hao Xu and Nianjin Ye and Yihao Ai and Shuaicheng Liu and Jingyu Hu},
+  journal={arXiv preprint arXiv:2602.18735},
+  year={2026},
 }
