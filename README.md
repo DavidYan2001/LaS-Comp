@@ -32,7 +32,7 @@ This project is tested under the following environment:
 - **PyTorch**: 2.4.0 (**compiled with CUDA 12.1**)  
 - **torchvision**: 0.19.0  
 
-> ⚠️ **Important:** Please ensure your CUDA version matches **12.1**. Using other versions may lead to runtime or compilation errors.
+
 
 ---
 
@@ -41,6 +41,9 @@ This project is tested under the following environment:
 ```bash
 conda env create -f environment.yml
 conda activate lascomp
+
+
+---
 
 ## 📅 TODO
 - [x] Release **Omni-Comp3D** dataset.
