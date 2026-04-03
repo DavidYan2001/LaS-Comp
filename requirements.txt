@@ -1,0 +1,198 @@
+addict==2.4.0
+aiohappyeyeballs==2.6.1
+aiohttp==3.12.15
+aiosignal==1.4.0
+apptools==5.3.1
+asttokens==3.0.0
+async-timeout==5.0.1
+attrs==25.3.0
+blinker==1.9.0
+brotlicffi @ file:///croot/brotlicffi_1736182461069/work
+ccimport==0.4.4
+certifi @ file:///home/conda/feedstock_root/build_artifacts/certifi_1754231422783/work/certifi
+cffi @ file:///croot/cffi_1736182485317/work
+chamfer_3D @ git+https://github.com/AllenXiangX/SnowflakeNet.git@0880ba1e1bf1c135d276aa0044f0acd38c44d94e#subdirectory=loss_functions/Chamfer3D
+charset-normalizer @ file:///croot/charset-normalizer_1721748349566/work
+click==8.3.0
+coloredlogs==15.0.1
+comm==0.2.3
+ConfigArgParse==1.7.1
+configobj==5.0.9
+contourpy==1.3.2
+cumm-cu121==0.7.11
+cycler==0.12.1
+dash==3.2.0
+dataclasses-json==0.6.7
+dearpygui==2.1.0
+decorator==5.2.1
+Deprecated==1.2.18
+diff_gaussian_rasterization @ file:///tmp/extensions/mip-splatting/submodules/diff-gaussian-rasterization
+diffoctreerast @ file:///tmp/extensions/diffoctreerast
+easydict==1.13
+einops==0.8.1
+emd @ git+https://github.com/AllenXiangX/SnowflakeNet.git@0880ba1e1bf1c135d276aa0044f0acd38c44d94e#subdirectory=loss_functions/emd
+entrypoints==0.4
+envisage==7.0.4
+exceptiongroup==1.3.0
+executing==2.2.1
+fastjsonschema==2.21.2
+filelock==3.20.0
+fire==0.7.1
+flash_attn==2.8.3
+Flask==3.1.2
+flatbuffers==25.2.10
+fonttools==4.60.1
+freetype-py==2.5.1
+frozenlist==1.7.0
+fsspec==2025.7.0
+glcontext==3.0.0
+gmpy2 @ file:///croot/gmpy2_1738085463648/work
+GPUtil==1.4.0
+h5py==3.15.0
+hf-xet==1.1.10
+huggingface-hub==0.34.4
+humanfriendly==10.0
+idna @ file:///croot/idna_1714398848350/work
+igraph==0.11.9
+ImageIO==2.37.3
+imageio-ffmpeg==0.6.0
+importlib_metadata==8.7.0
+importlib_resources==6.5.2
+iopath==0.1.10
+ipycanvas==0.14.1
+ipyevents==2.0.2
+ipython==8.37.0
+ipywidgets==8.1.7
+itsdangerous==2.2.0
+jedi==0.19.2
+Jinja2==3.1.6
+joblib==1.5.2
+jsonschema==4.25.0
+jsonschema-specifications==2025.4.1
+jupyter_client==7.4.9
+jupyter_core==5.8.1
+jupyterlab_widgets==3.0.15
+kaolin @ file:///mnt/disk3/weilong/kaolin-0.18.0-cp310-cp310-linux_x86_64.whl#sha256=843901d2132a91a3ea6790ebd805a3ca1afa74a5373b2bab252ac629ba056410
+kiwisolver==1.4.9
+lark==1.2.2
+lazy_loader==0.4
+llvmlite==0.44.0
+loguru==0.7.3
+MarkupSafe==3.0.3
+marshmallow==3.26.1
+matplotlib==3.10.5
+matplotlib-inline==0.1.7
+mayavi==4.8.3
+mkl-service==2.4.0
+mkl_fft @ file:///io/mkl313/mkl_fft_1730824109137/work
+mkl_random @ file:///io/mkl313/mkl_random_1730823916628/work
+moderngl==5.12.0
+mpmath==1.3.0
+multidict==6.6.4
+mypy_extensions==1.1.0
+narwhals==2.8.0
+nbformat==5.10.4
+nest-asyncio==1.6.0
+networkx==3.4.2
+ninja==1.13.0
+numba==0.61.2
+numpy==1.26.4
+nvdiffrast @ file:///tmp/extensions/nvdiffrast
+objaverse==0.1.7
+onnxruntime==1.22.1
+open3d==0.19.0
+opencv-python-headless==4.12.0.88
+packaging==25.0
+pandas==2.3.1
+parso==0.8.5
+pccm==0.4.16
+pexpect==4.9.0
+pillow @ file:///croot/pillow_1752524526621/work
+platformdirs==4.5.0
+plotly==6.3.0
+plyfile==1.1.2
+pooch==1.8.2
+portalocker==3.2.0
+prompt_toolkit==3.0.52
+propcache==0.3.2
+protobuf==6.32.0
+psutil==7.1.0
+ptyprocess==0.7.0
+pure_eval==0.2.3
+puremagic==1.30
+pyarrow==22.0.0
+pybind11==3.0.0
+pycparser @ file:///tmp/build/80754af9/pycparser_1636541352034/work
+pyface==8.0.0
+pyglet==2.1.13
+pygltflib==1.16.2
+Pygments==2.19.2
+PyMatting==1.1.14
+PyMCubes==0.1.6
+pymeshfix==0.17.1
+PyOpenGL==3.1.0
+pyparsing==3.2.5
+PyQt5==5.15.11
+PyQt5-Qt5==5.15.17
+PyQt5_sip==12.17.1
+pyquaternion==0.9.9
+pyrender==0.1.45
+PySocks @ file:///home/builder/ci_310/pysocks_1640793678128/work
+python-dateutil==2.9.0.post0
+pytorch3d @ git+https://github.com/facebookresearch/pytorch3d.git@75ebeeaea0908c5527e7b1e305fbc7681382db47
+pytz==2025.2
+pyvista==0.46.1
+PyYAML @ file:///croot/pyyaml_1728657952215/work
+pyzmq==27.0.1
+referencing==0.36.2
+regex==2025.7.34
+rembg==2.0.67
+requests @ file:///croot/requests_1750426329888/work
+retrying==1.4.2
+rpds-py==0.27.0
+safetensors==0.6.2
+scikit-image==0.25.2
+scikit-learn==1.7.1
+scipy==1.15.3
+scooby==0.10.1
+simple_kNN==1.1.6
+six==1.17.0
+spconv-cu121==2.3.8
+stack-data==0.6.3
+sympy @ file:///croot/sympy_1738108488918/work
+tensorboardX==2.6.4
+termcolor==3.1.0
+texttable==1.7.0
+threadpoolctl==3.6.0
+tifffile==2025.5.10
+timm==1.0.20
+tokenizers==0.21.4
+torch==2.4.0
+torch-geometric==2.6.1
+torchvision==0.19.0
+tornado==6.5.2
+tqdm==4.67.1
+traitlets==5.14.3
+traits==7.0.2
+traitsui==8.0.0
+transformers==4.55.2
+transforms3d==0.4.2
+trimesh==4.11.5
+triton==3.0.0
+typing-inspect==0.9.0
+typing_extensions @ file:///croot/typing_extensions_1734714854207/work
+tzdata==2025.2
+UNKNOWN @ git+https://github.com/EasternJournalist/utils3d.git@c5daf6f6c244d251f252102d09e9b7bcef791a38
+urllib3 @ file:///croot/urllib3_1750775463400/work
+usd-core==25.8
+utils3d @ git+https://github.com/EasternJournalist/utils3d.git@9a4eb15e4021b67b12c460c7057d642626897ec8
+vtk==9.5.0
+warp-lang==1.8.1
+wcwidth==0.2.14
+Werkzeug==3.1.3
+widgetsnbextension==4.0.14
+wrapt==1.17.3
+xatlas==0.0.11
+xformers @ file:///mnt/disk3/weilong/xformers-0.0.27.post2-cp310-cp310-manylinux2014_x86_64.whl#sha256=7d4bd4876559fdc3cccbcaea717d3a28ca7f2fb09ab84cac3d859449ba247830
+yarl==1.20.1
+zipp==3.23.0

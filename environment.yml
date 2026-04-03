@@ -1,0 +1,13 @@
+name: lascomp
+channels:
+  - conda-forge
+  - https://repo.anaconda.com/pkgs/main
+  - https://repo.anaconda.com/pkgs/r
+dependencies:
+  - python=3.10
+  - pytorch-cuda=12.1
+  - pytorch==2.4.0
+  - torchvision==0.19.0
+  - gcc=11
+  - gxx=11
+prefix: /home/weilong/anaconda3/envs/lascomp
