@@ -30,7 +30,10 @@ This project is tested under the following environment:
 - **Python**: 3.10  
 - **CUDA**: 12.1  
 - **PyTorch**: 2.4.0 (**compiled with CUDA 12.1**)  
-- **torchvision**: 0.19.0  
+- **torchvision**: 0.19.0
+
+> ⚠️ **Important:** Please ensure your system CUDA version is **12.1**.  
+> Mismatched CUDA versions (e.g., 11.x or 12.3+) may cause errors with `spconv`, `flash-attn`, or rendering modules.
 
 ---
 ### 1. Create conda environment
@@ -39,6 +42,19 @@ This project is tested under the following environment:
 conda env create -f environment.yml
 conda activate lascomp
 ```
+
+### 2. Install Python Dependencies
+```
+pip install -r requirements.txt
+```
+
+### 3. Verify Installation
+```
+python -c "import torch; print(torch.cuda.is_available())"
+```
+
+### ⚠️ Notes on Installation
+
 
 ## 📅 TODO
 - [x] Release **Omni-Comp3D** dataset.
