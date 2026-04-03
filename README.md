@@ -53,8 +53,24 @@ pip install -r requirements.txt
 python -c "import torch; print(torch.cuda.is_available())"
 ```
 
-### ⚠️ Notes on Installation
+## ⚠️ Notes on Installation
 
+### 1. CUDA Compatibility
+This project relies on several CUDA-dependent libraries:
+
+- `spconv-cu121`
+- `flash-attn`
+- `nvdiffrast`
+- `diff-gaussian-rasterization`
+
+### 2. Precompiled Packages
+
+Some dependencies (e.g., xformers, kaolin) may require manual installation depending on your system.
+
+### 3. FlashAttention (Optional)
+```
+pip install flash-attn --no-build-isolation
+```
 
 ## 📅 TODO
 - [x] Release **Omni-Comp3D** dataset.
