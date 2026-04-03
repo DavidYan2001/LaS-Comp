@@ -38,7 +38,7 @@ This project is tested under the following environment:
 ```bash
 conda env create -f environment.yml
 conda activate lascomp
-
+```
 
 ## 📅 TODO
 - [x] Release **Omni-Comp3D** dataset.
