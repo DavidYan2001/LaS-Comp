@@ -21,6 +21,27 @@
 - **[2026-03]** 🎉 Our proposed benchmark **Omni-Comp3D** is now available at [Hugging Face](https://huggingface.co/datasets/DavidYan2001/Omni-Comp3D)!
 - **[2026-02]** 📄 Our work is accepted by [CVPR 2026](https://cvpr.thecvf.com/Conferences/2026), and paper is available on [arXiv](https://arxiv.org/abs/2602.18735).
 
+---
+
+## ⚙️ Environment Setup
+
+This project is tested under the following environment:
+
+- **Python**: 3.10  
+- **CUDA**: 12.1  
+- **PyTorch**: 2.4.0 (**compiled with CUDA 12.1**)  
+- **torchvision**: 0.19.0  
+
+> ⚠️ **Important:** Please ensure your CUDA version matches **12.1**. Using other versions may lead to runtime or compilation errors.
+
+---
+
+### 1. Create conda environment
+
+```bash
+conda env create -f environment.yml
+conda activate lascomp
+
 ## 📅 TODO
 - [x] Release **Omni-Comp3D** dataset.
 - [ ] Release code for **TRELLIS**.
