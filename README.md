@@ -67,11 +67,6 @@ This project relies on several CUDA-dependent libraries:
 
 Some dependencies (e.g., xformers, kaolin) may require manual installation depending on your system.
 
-### 3. FlashAttention (Optional)
-```
-pip install flash-attn --no-build-isolation
-```
-
 ## 📅 TODO
 - [x] Release **Omni-Comp3D** dataset.
 - [ ] Release code for **TRELLIS**.
