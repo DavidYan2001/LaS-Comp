@@ -86,6 +86,7 @@ Following the official [TRELLIS](https://github.com/microsoft/TRELLIS) release, 
 ckpt/
 ├── image-large/
 └── text-xlarge/
+└── clip/
 ```
 
 ## 📦 Dataset
