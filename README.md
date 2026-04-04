@@ -69,7 +69,7 @@ Some dependencies (e.g., xformers, kaolin) may require manual installation depen
 
 ## 📅 TODO
 - [x] Release **Omni-Comp3D** dataset.
-- [ ] Release code for **TRELLIS**.
+- [x] Release code for **TRELLIS**.
 - [ ] Release code for **Direct3D-S2**.
 
 
