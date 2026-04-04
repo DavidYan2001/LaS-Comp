@@ -18,7 +18,7 @@
 ---
 
 ## 📢 News
-- **[2026-03]** 🎉 **LaS-Comp** is selected to do a poster presentation in [CHINA3DV 2026](http://china3dv.csig.org.cn/index.html)!
+- **[2026-04]** 🎉 **LaS-Comp** is selected to do a poster presentation in [CHINA3DV 2026](http://china3dv.csig.org.cn/index.html)!
 - **[2026-03]** 🎉 Our proposed benchmark **Omni-Comp3D** is now available at [Hugging Face](https://huggingface.co/datasets/DavidYan2001/Omni-Comp3D)!
 - **[2026-02]** 📄 Our work is accepted by [CVPR 2026](https://cvpr.thecvf.com/Conferences/2026), and paper is available on [arXiv](https://arxiv.org/abs/2602.18735).
 
