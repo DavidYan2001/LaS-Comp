@@ -113,7 +113,7 @@ python run_lascomp_image_condition_single.py \
 - `--prompt` is used for the text-conditioned model.
 - `--image-path` is used for the image-conditioned model.
 - `--dataset custom` indicates that the input comes from your own custom data.
-- `--yz-flip` is optional and can be enabled when your input coordinate system requires axis alignment.
+- `--yz-flip` is used for samples whose vertical axis is **y**. If your sample uses **z** as the default vertical axis, please use `--no-yz-flip` instead.
 
 ## 📝 Citation
 If you find our work or dataset helpful for your research, please consider citing:
