@@ -140,7 +140,9 @@ or
 ```
 python run_lascomp_text_condition.py
 ```
+## 🙏 Acknowledgements
 
+We sincerely thank [TRELLIS](https://github.com/microsoft/TRELLIS), [Direct3D-S2](https://github.com/DreamTechAI/Direct3D-S2), [ComPC](https://github.com/Tianxinhuang/ComPC), [FlowChef](https://github.com/FlowChef/FlowChef), [FlowDPS](https://github.com/FlowDPS-Inverse/FlowDPS), and [VoxHammer](https://github.com/Nelipot-Lee/VoxHammer) for their inspirational help to our work.
 
 ## 📝 Citation
 If you find our work or dataset helpful for your research, please consider citing:
