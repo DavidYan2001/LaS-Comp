@@ -95,11 +95,25 @@ For custom partial inputs, you can run the project in either **text-conditioned*
 
 ```
 python run_lascomp_text_condition_single.py \
-  --partial-path /mnt/disk3/weilong/TRELLIS_LASCOMP/samples/CompC_datasets/plyobj/indata/teapot.ply \
-  --prompt "A teapot" \
+  --partial-path path/to/your/partial-shape \
+  --prompt "Your prompt" \
   --dataset custom \
   --yz-flip
 ```
+### 2. Image-conditioned completion
+```
+python run_lascomp_image_condition_single.py \
+  --partial-path path/to/your/partial-shape \
+  --image-path path/to/your/image \
+  --dataset custom \
+  --yz-flip
+```
+### Notes
+- `--partial-path` specifies the input partial 3D shape.
+- `--prompt` is used for the text-conditioned model.
+- `--image-path` is used for the image-conditioned model.
+- `--dataset custom` indicates that the input comes from your own custom data.
+- `--yz-flip` is optional and can be enabled when your input coordinate system requires axis alignment.
 
 ## 📝 Citation
 If you find our work or dataset helpful for your research, please consider citing:
