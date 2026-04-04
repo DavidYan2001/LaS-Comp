@@ -77,6 +77,17 @@ pip install flash-attn --no-build-isolation
 - [ ] Release code for **TRELLIS**.
 - [ ] Release code for **Direct3D-S2**.
 
+
+## 📥 Checkpoint Download
+
+Following the official [TRELLIS](https://github.com/microsoft/TRELLIS) release, please download the pretrained checkpoints for **`image-large`** and **`text-xlarge`**, and place them under the `ckpt/` directory. The directory structure should look like:
+
+```
+ckpt/
+├── image-large/
+└── text-xlarge/
+```
+
 ## 📦 Dataset
 The **Omni-Comp3D** benchmark is hosted on Hugging Face. It includes two parts:
 
