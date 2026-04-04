@@ -87,6 +87,20 @@ You can access them here: 👉 [**Omni-Comp3D**](https://huggingface.co/datasets
 
 Please place both **Omni-Comp3D** and **samples** in their appropriate locations within the project directory.
 
+## 🚀 Running the Project
+
+For custom partial inputs, you can run the project in either **text-conditioned** or **image-conditioned** mode.
+
+### 1. Text-conditioned completion
+
+```
+python run_lascomp_text_condition_single.py \
+  --partial-path /mnt/disk3/weilong/TRELLIS_LASCOMP/samples/CompC_datasets/plyobj/indata/teapot.ply \
+  --prompt "A teapot" \
+  --dataset custom \
+  --yz-flip
+```
+
 ## 📝 Citation
 If you find our work or dataset helpful for your research, please consider citing:
 
