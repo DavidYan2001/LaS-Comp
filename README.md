@@ -78,8 +78,14 @@ pip install flash-attn --no-build-isolation
 - [ ] Release code for **Direct3D-S2**.
 
 ## 📦 Dataset
-The **Omni-Comp3D** benchmark is hosted on Hugging Face. You can access it here:
-👉 [**Omni-Comp3D**](https://huggingface.co/datasets/DavidYan2001/Omni-Comp3D)
+The **Omni-Comp3D** benchmark is hosted on Hugging Face. It includes two parts:
+
+- **Omni-Comp3D**: our proposed benchmark for comprehensive completion evaluation.
+- **samples**: the evaluation samples following SDS-Complete, GenPC, ComPC.
+
+You can access them here: 👉 [**Omni-Comp3D**](https://huggingface.co/datasets/DavidYan2001/Omni-Comp3D)
+
+Please place both **Omni-Comp3D** and **samples** in their appropriate locations within the project directory.
 
 ## 📝 Citation
 If you find our work or dataset helpful for your research, please consider citing:
