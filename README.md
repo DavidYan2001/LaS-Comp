@@ -121,6 +121,26 @@ python run_lascomp_image_condition_single.py \
 - `--image-path` is used for the image-conditioned model.
 - `--dataset custom` indicates that the input comes from your own custom data.
 - `--yz-flip` is used for samples whose vertical axis is **y**. If your sample uses **z** as the default vertical axis, please use `--no-yz-flip` instead.
+- You can adjust the hyperparameters to get better completion results.
+
+### 3. Benchmark Evaluation
+
+To evaluate the model on the provided benchmarks, you can use the following scripts for different datasets.
+
+#### Omni-Comp3D
+```
+python run_lascomp_text_condition_omnicomp.py
+```
+
+#### Redwood and Synthetic
+```
+python run_lascomp_image_condition.py
+```
+or
+```
+python run_lascomp_text_condition.py
+```
+
 
 ## 📝 Citation
 If you find our work or dataset helpful for your research, please consider citing:
