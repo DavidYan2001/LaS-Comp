@@ -150,7 +150,7 @@ If you find our work or dataset helpful for your research, please consider citin
 
 ```bibtex
 @article{lascomp,
-  title={La{S}-{C}omp: {Z}ero-shot 3{D} {C}ompletion with {L}atent-{S}patial {C}onsistency},
+  title={LaS-Comp: Zero-shot 3D Completion with Latent-Spatial Consistency},
   author={Weilong Yan and Haipeng Li and Hao Xu and Nianjin Ye and Yihao Ai and Shuaicheng Liu and Jingyu Hu},
   journal={arXiv preprint arXiv:2602.18735},
   year={2026},
