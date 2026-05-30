@@ -149,10 +149,12 @@ We sincerely thank [TRELLIS](https://github.com/microsoft/TRELLIS), [Direct3D-S2
 If you find our work or dataset helpful for your research, please consider citing:
 
 ```bibtex
-@article{yan2026lascomp,
-  title={La{S}-{C}omp: {Z}ero-shot 3D Completion with Latent-Spatial Consistency},
-  author={Yan, Weilong and Li, Haipeng and Xu, Hao and Ye, Nianjin and Ai, Yihao and Liu, Shuaicheng and Hu, Jingyu},
-  journal={arXiv preprint arXiv:2602.18735},
-  year={2026}
+@InProceedings{Yan_2026_CVPR,
+    author    = {Yan, Weilong and Li, Haipeng and Xu, Hao and Ye, Nianjin and Ai, Yihao and Liu, Shuaicheng and Hu, Jingyu},
+    title     = {LaS-Comp: Zero-shot 3D Completion with Latent-Spatial Consistency},
+    booktitle = {Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)},
+    month     = {June},
+    year      = {2026},
+    pages     = {7588-7599}
 }
 
