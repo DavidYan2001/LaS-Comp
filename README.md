@@ -4,7 +4,7 @@
 
 [![arXiv](https://img.shields.io/badge/arXiv-2602.18735-b31b1b.svg)](https://arxiv.org/abs/2602.18735)
 [![Dataset](https://img.shields.io/badge/HuggingFace-Dataset-orange)](https://huggingface.co/datasets/DavidYan2001/Omni-Comp3D)
-[![Venue](https://img.shields.io/badge/CVPR-2026-blue.svg)](https://cvpr.thecvf.com/)
+[![Venue](https://img.shields.io/badge/CVPR-2026-blue.svg)]([https://cvpr.thecvf.com/](https://openaccess.thecvf.com/content/CVPR2026/html/Yan_LaS-Comp_Zero-shot_3D_Completion_with_Latent-Spatial_Consistency_CVPR_2026_paper.html))
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
 <img src="assets/crop_logo.png" alt="LaS-Comp logo" width="280">
